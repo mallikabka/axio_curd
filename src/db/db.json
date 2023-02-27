@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 123,
+      "pname": "Tv",
+      "qty": "2300",
+      "price": "120"
+    },
+    {
+      "id": 1234,
+      "pname": "mobile",
+      "qty": "100",
+      "price": "40006"
+    },
+    {
+      "id": "3",
+      "pname": "Mango",
+      "qty": "12",
+      "price": "23455"
+    },
+    {
+      "id": "5",
+      "pname": "Apple",
+      "qty": "23",
+      "price": "34555"
+    }
+  ],
+  "users": [
+    {
+      "id": 1234,
+      "username": "Mallika",
+      "password": 123,
+      "type": "admin"
+    },
+    {
+      "id": 12345,
+      "username": "Mohan",
+      "password": 1234,
+      "type": "cus"
+    },
+    {
+      "id": "3",
+      "username": "divya",
+      "password": "divya"
+    },
+    {
+      "id": "4",
+      "username": "jashu",
+      "password": "jashu"
+    }
+  ]
+}
