@@ -4,6 +4,7 @@ class AboutUs extends Component{
         return(
             <div>
                 <h2>About Us</h2>
+                <h2>Hi all....</h2>
             </div>
         )
     }
